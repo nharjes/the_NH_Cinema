@@ -15,7 +15,13 @@ The NH Cinema is a web application that fetches and displays popular movies from
 
 ## Screenshot
 
-![image]()
+![image](https://github.com/nharjes/the_NH_Cinema/blob/main/screenshot.JPG)
+ 
+## Technologies Used
+- HTML
+- CSS
+- Javascript
+- TMDb API
 
 
 ## Installation
@@ -41,3 +47,7 @@ Replace the placeholder API key in the `script.js` file with your own API key:
 
 ```javascript
 const API_KEY = 'your_api_key_here';
+ ```
+ ## License 
+  This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
