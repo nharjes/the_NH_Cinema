@@ -5,7 +5,7 @@ const nextButton = document.getElementById("nextButton");
 nextButton.addEventListener("click", () => {
     if (page < 1000) {
         page += 1;
-        fetchMovies();
+        fetchMovies(); 
     }
 })
 
