@@ -1,4 +1,4 @@
-# The NH Cinema
+# CinemaScout
 
 A simple web application to fetch and display popular movies using The Movie Database (TMDb) API.
 
